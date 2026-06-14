@@ -1,2 +1,2 @@
 # Tabs
-Javascript project
+React project
